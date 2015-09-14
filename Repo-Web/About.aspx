@@ -2,6 +2,6 @@
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <h2><%: Title %>.</h2>
-    <h3>Your application description page.</h3>
-    <p>Use this area to provide additional information.</p>
+    <h3>About Me</h3>
+    <p>My name is Leban Mohamed. I'm in my 3rd years at NAIT. My anixety has subsided, but it's less than when I first came to this institution.</p>
 </asp:Content>
